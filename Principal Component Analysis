@@ -1,4 +1,18 @@
 
+%   PCA applied to alphabets (images).
+
+%   Goal: Reducing dimensionalities of images by finding important information and discarding the rest.
+
+
+
+
+
+
+
+
+
+
+
 datadir='.';    % directory where the data files reside
 dataset={'arial','bookman_old_style','century','comic_sans_ms','courier_new',...
   'fixed_sys','georgia','microsoft_sans_serif','palatino_linotype',...
