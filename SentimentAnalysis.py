@@ -1,3 +1,6 @@
+#Sentiment Analysis using Naive Bayes.
+
+
 import pandas as p
 from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer
